@@ -1,7 +1,8 @@
 The quick brown dog jumps over the lazy fox.
 犬が狐をジャンプした。
+イエニカエッテ、ハヲミガク！
 WRAP AEDYN OUHTC
-line 2　かきくてこ
+line 2　なにぬねの
 さしすせそ
 ３行目 printf("hello world!")
 system.out.println("hello world!")
@@ -19,3 +20,7 @@ ehimosesu
 OUHTCOUHTCOUHTCAEDYNAEDYNAEDYN
 AEDYN
 AEDYN
+AEDYN
+AEDYN
+AEDYN
+AEDYN最強！
