@@ -1,5 +1,5 @@
-The quick brown fox jumps over the lazy dog.
-line 2
+The quick brown fox jumps over the lazy dog.　あいうえお
+line 2　かきくけこ
 ３行目
 いろはにほへと
 ちりぬるを
