@@ -1,7 +1,8 @@
 The quick brown dog jumps over the lazy fox.
 犬が狐をジャンプした。
 WRAP AEDYN OUHTC
-line 2　かきくけこ
+line 2　かきくてこ
+さしすせそ
 ３行目 printf("hello world!")
 system.out.println("hello world!")
 print("hello world!")
