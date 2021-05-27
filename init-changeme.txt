@@ -1,5 +1,9 @@
-hahahahhahahahaひひひひひひひひひひ
 The quick brown dog jumps over the lazy fox.
+WRAP AEDYN OUHTC
+line 2　かきくけこ
+３行目 printf("hello world!")
+system.out.println("hello world!")
+print("hello world!")
 いろはにほへと
 ちりぬるを
 wakayotareso
