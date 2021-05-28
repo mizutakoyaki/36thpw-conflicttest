@@ -5,7 +5,7 @@ WRAP AEDYN OUHTC
 line 2　なにぬねの
 さしすせそ
 ３行目 printf("hello world!")
-system.out.println("hello world!")
+
 print("hello world!")
 いろはにほへと
 ちりぬるを
@@ -28,3 +28,4 @@ WRAP
 WRAP WRAP
 ラーメンは一日十杯まで！
 ポテトは一日６箱まで！
+寿司は一日３貫まで！
