@@ -1,6 +1,7 @@
 The quick brown dog jumps over the lazy fox.
 犬が狐をジャンプした。
 イエニカエッテ、ハヲミガク！
+あさまのいたずらおにのおしだし
 WRAP AEDYN OUHTC
 line 2　なにぬねの
 さしすせそ
